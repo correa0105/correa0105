@@ -43,6 +43,6 @@ object **Lucas** {
 
 #### Rede Sociais!
 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🐦 [Twitter][twitter] **|** 
+📷 [Instagram][instagram] **|** 
+👔 [Linkedin][linkedin]
