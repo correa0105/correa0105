@@ -8,10 +8,10 @@ Sou desenvolvedor de Software, atualmente sou desenvolvedor JavaScript, estou tr
 
 ```javascript
 const object = [{
- name = "Lucas Corrêa da Silva",
- acknowledgements = "FullStack",
- primarySkillset = "JavaScript e Código Limpo",
- languages = {"HTML", "CSS", "JavaScript", "React", "NodeJS"}
+ name: "Lucas Corrêa da Silva",
+ acknowledgements: "FullStack",
+ primarySkillset: "JavaScript e Código Limpo",
+ languages: {"HTML", "CSS", "JavaScript", "React", "NodeJS"}
 }]
 ```
 
