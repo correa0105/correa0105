@@ -6,14 +6,13 @@ Sou desenvolvedor de Software, atualmente sou desenvolvedor JavaScript, estou tr
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **Lucas** {
- val name = "Lucas Corrêa da Silva"
- val acknowledgements = "FullStack"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("HTML", "CSS", "JavaScript", "React", "NodeJS") 
-}
+```javascript
+const object = [{
+ name = "Lucas Corrêa da Silva",
+ acknowledgements = "FullStack",
+ primarySkillset = "JavaScript e Código Limpo",
+ languages = {"HTML", "CSS", "JavaScript", "React", "NodeJS"}
+}]
 ```
 
 ## **Linguagens e Ferramentas:**  
