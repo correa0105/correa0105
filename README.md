@@ -1,6 +1,6 @@
 ### Olá, meu nome é Lucas Corrêa 👋
 
-Sou desenvolvedor de Software com enfase em FrontEnd com JavaScript, estou trilhando um caminho para me tornar um Engenheiro de Software FullStack.
+Sou desenvolvedor de Software FullStack, estou diariamente me aprimorando e me tornando um profissional mais completo, você pode estar acompanhando meu progresso aqui no meu GitHub, se eu ficar mais de 5 dias sem contribuir é porque estou em algum BootCamp ou então em algum curso de muitas horas.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
