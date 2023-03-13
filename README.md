@@ -1,6 +1,6 @@
 ### Olá, meu nome é Lucas Corrêa 👋
 
-Sou desenvolvedor de Software FullStack, estou diariamente me aprimorando e me tornando um profissional mais completo, você pode estar acompanhando meu progresso aqui no meu GitHub, se eu ficar mais de 5 dias sem contribuir é porque estou em algum BootCamp ou então em algum curso de muitas horas.
+Sou desenvolvedor de Software, estou diariamente me aprimorando e me tornando um profissional mais completo, você pode estar acompanhando meu progresso aqui no meu GitHub, se eu ficar mais de 5 dias sem contribuir é porque estou em algum BootCamp ou então em algum curso de muitas horas XD.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -9,9 +9,9 @@ Sou desenvolvedor de Software FullStack, estou diariamente me aprimorando e me t
 ```javascript
 const object = [{
  name: "Lucas Corrêa da Silva",
- acknowledgements: "FullStack",
- primarySkillset: "JavaScript and NodeJS",
- tecnologies: {"JavaScript", "React", "NodeJS"}
+ bornIn: "Brazil",
+ primarySkills: "NodeJS, TypeScript and React",
+ loves: ["Games", "Learning", "Coding", "Series"]
 }]
 ```
 
