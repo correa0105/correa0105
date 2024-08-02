@@ -1,6 +1,6 @@
 ### Olá, meu nome é Lucas Corrêa 👋
 
-Sou desenvolvedor de Software, estou diariamente me aprimorando e me tornando um profissional mais completo, você pode estar acompanhando meu progresso aqui no meu GitHub, se eu ficar mais de 5 dias sem contribuir é porque estou em algum BootCamp ou então em algum curso de muitas horas XD.
+Especializado em JavaScript e TypeScript, com ampla experiência em NodeJS e ReactJS. Tenho sólidos conhecimento em bancos de dados e tambem ORM's, além de experiência com Docker e sistemas de vertsionamento. Utilizo Design Patters (GOF) e boas práticas de programação como (S.O.L.I.D) para desenvolver soluções robustas e escaláveis.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -10,7 +10,7 @@ Sou desenvolvedor de Software, estou diariamente me aprimorando e me tornando um
 const lucasCorrea = [{
  name: "Lucas Corrêa da Silva",
  bornIn: "Brazil",
- primarySkills: "NodeJS, TypeScript and React",
+ primarySkills: "NodeJS, Java, React",
  loves: ["Games", "Learning", "Coding", "Series"]
 }]
 ```
@@ -20,6 +20,8 @@ const lucasCorrea = [{
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 ## **GitHub Estatísticas**
 
